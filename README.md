@@ -6,7 +6,7 @@ A fork from https://github.com/capital-G/berlin-auslanderbehorde-termin-bot.
 
 ## Setup
 
-* `git clone https://github.com/capital-G/berlin-auslanderbehorde-termin-bot.git`
+* `git clone https://github.com/redstarmy/LEA_bot.git`
 * Setup a virtualenv via `virtualenv venv` and activate it
 * Install dependencies via `pip install -r requirements.txt`
 * Configure `berlin_bot.py` according to your needs (see below)

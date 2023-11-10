@@ -1,4 +1,4 @@
-# Berlin Ausländerbehörde Termin Bot
+# Berlin Landesamt für Einwanderung Bot
 
 A [Selenium](https://www.selenium.dev/) bot for obtaining an appointment at the [Landesamt für Einwanderung](https://otv.verwalt-berlin.de/ams/TerminBuchen) aka Ausänderbehörde in Berlin.
 
